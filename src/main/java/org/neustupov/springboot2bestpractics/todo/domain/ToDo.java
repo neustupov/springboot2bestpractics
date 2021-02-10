@@ -12,7 +12,7 @@ import lombok.experimental.FieldDefaults;
 @FieldDefaults(level = AccessLevel.PRIVATE)
 public class ToDo {
 
-  @NotNull
+  @NotNull(message = "Id is not null")
   String id;
   @NotNull
   @NotBlank
