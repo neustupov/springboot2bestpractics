@@ -1,4 +1,4 @@
-package org.neustupov.springboot2bestpractics.todo.client.domain;
+package org.neustupov.springboot2resttemplates.client.domain;
 
 import java.time.LocalDateTime;
 import java.util.UUID;

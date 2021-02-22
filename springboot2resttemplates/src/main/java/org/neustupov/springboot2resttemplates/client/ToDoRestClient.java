@@ -1,11 +1,11 @@
-package org.neustupov.springboot2bestpractics.todo.client;
+package org.neustupov.springboot2resttemplates.client;
 
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.HashMap;
 import java.util.Map;
-import org.neustupov.springboot2bestpractics.todo.client.error.ToDoErrorHandler;
-import org.neustupov.springboot2bestpractics.todo.domain.ToDo;
+import org.neustupov.springboot2resttemplates.client.domain.ToDo;
+import org.neustupov.springboot2resttemplates.client.error.ToDoErrorHandler;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.HttpStatus;

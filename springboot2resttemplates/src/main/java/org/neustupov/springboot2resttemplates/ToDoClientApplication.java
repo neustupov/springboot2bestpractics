@@ -1,8 +1,8 @@
-package org.neustupov.springboot2bestpractics.todo;
+package org.neustupov.springboot2resttemplates;
 
 import lombok.extern.slf4j.Slf4j;
-import org.neustupov.springboot2bestpractics.todo.client.ToDoRestClient;
-import org.neustupov.springboot2bestpractics.todo.domain.ToDo;
+import org.neustupov.springboot2resttemplates.client.ToDoRestClient;
+import org.neustupov.springboot2resttemplates.client.domain.ToDo;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.WebApplicationType;

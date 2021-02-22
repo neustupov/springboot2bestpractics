@@ -1,4 +1,4 @@
-package org.neustupov.springboot2bestpractics.todo.client.error;
+package org.neustupov.springboot2resttemplates.client.error;
 
 import java.io.IOException;
 import java.nio.charset.Charset;

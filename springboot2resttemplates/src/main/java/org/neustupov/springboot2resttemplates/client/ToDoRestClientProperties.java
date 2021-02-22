@@ -1,4 +1,4 @@
-package org.neustupov.springboot2bestpractics.todo.client;
+package org.neustupov.springboot2resttemplates.client;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

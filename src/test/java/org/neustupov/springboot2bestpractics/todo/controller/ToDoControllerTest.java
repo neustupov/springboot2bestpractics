@@ -12,6 +12,7 @@ import java.util.Optional;
 import org.assertj.core.util.Lists;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+import org.neustupov.springboot2bestpractics.Springboot2BestPracticsApplication;
 import org.neustupov.springboot2bestpractics.todo.domain.ToDo;
 import org.neustupov.springboot2bestpractics.todo.domain.ToDoBuilder;
 import org.neustupov.springboot2bestpractics.todo.repository.CommonRepository;
